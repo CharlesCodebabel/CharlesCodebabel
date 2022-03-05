@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <h2> Card </h2>
-<div>[![card](https://github-readme-stats.vercel.app/api?username=charlescodebabel&theme=Dark&show_icons=true)](https://github.com/charlescodebabel/)</div>
+[![card](https://github-readme-stats.vercel.app/api?username=charlescodebabel&theme=Dark&show_icons=true)](https://github.com/charlescodebabel/)
 
