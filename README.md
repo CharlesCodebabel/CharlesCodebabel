@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <h2> Card </h2>
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)
+[card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)
 
