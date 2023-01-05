@@ -25,6 +25,7 @@ abaixo.<p>
    <p>Desenvolvimento multi-plataforma, desenvolvimento web C#.<p>
 <h3>Python</h3>
    <img src="https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python&logo=Python&logoColor=blue&style=for-the-badge">
+   <p>Desenvolvimento Python 3.10 Global, Kivy, Django, pandas, FastAPI, PySimpleGui, Tkinter, PyQT, SQLite3, MySQL<p>
 <h3>Dados</h3>
    <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
    <p><b>MariaDB</b> (MySQL)<p>
