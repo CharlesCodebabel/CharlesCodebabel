@@ -24,9 +24,9 @@ abaixo.<p>
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/></div>
    <p>Desenvolvimento multi-plataforma, desenvolvimento web C#.<p>
 <h3>Global</h3>
-  <img src="https://img.shields.io/pypi/pyversions/3.11?color=blue&label=Python&logo=Python&logoColor=blue&style=for-the-badge">
+   <img src="https://img.shields.io/pypi/pyversions/3?color=blue&label=Python&logo=Python&logoColor=blue&style=for-the-badge">
 <h3>Dados</h3>
-  <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
    <p><b>MariaDB</b> (MySQL)<p>
  <h3>Outros</h3>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
