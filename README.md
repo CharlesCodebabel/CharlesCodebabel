@@ -1,13 +1,13 @@
 
 <h3> ~ CharlesCodebabel ~ </h3>
 <p>Bem-vindos, Me chamo Charles Martins e estou reestruturando meu novo Git.
-Programador FrontEnd Junior, BackEnd <i>( Não FullStack )</i>. Com conhecimentos intermediários
-em desenvolvimento mobile, Linux, Windows e Apple, algumas linguagens e sistemas listados
+Programador FrontEnd, BackEnd Python. Com interação em multiplataforma Xamarim,
+desenvolvimento mobile, Linux, Windows e Apple, linguagens e sistemas listados
 abaixo.<p> 
 <b>Sistemas Operacionais</b>
   <div><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/></div>
-    <p>Noções intermediárias em automação : Bach, Batch e Vbscript.<p>
+    <p>Automação : Bach, Batch e Vbscript.<p>
 <h3>Linguagens</h3>
   <div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -22,7 +22,7 @@ abaixo.<p>
 <h3>Multi-Plataforma</h3>
   <div><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/></div>
-   <p>Desenvolvimento multi-plataforma, desenvolvimento web C#.<p>
+   <p>Desenvolvimento web C#.<p>
 <h3>Python</h3>
    <img src="https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python&logo=Python&logoColor=blue&style=for-the-badge">
    <p>Desenvolvimento Python 3.10 Global, Kivy, Django, pandas, FastAPI, PySimpleGui, Tkinter, PyQT, SQLite3, MySQL<p>
