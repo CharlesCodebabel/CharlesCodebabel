@@ -1,8 +1,5 @@
 
 # `Codebabel.io`
-___
-___
-___
 
 `[ PTBR ]` Bem-vindos, Me chamo Charles Martins `"CodeBabel"` meu Git. Programador FrontEnd, BackEnd Python. Com interação em multiplataforma Xamarim, desenvolvimento mobile, Linux, Windows e Apple, linguagens e sistemas listados abaixo, acompanhem os commits...
 
@@ -11,6 +8,7 @@ ___
 ___
 ## STATS
 ___
+
 <div align="center">
 
 ![CharlesCodebabel](https://github-readme-stats.vercel.app/api?username=CharlesCodebabel&show_icons=true&theme=radical)
@@ -18,7 +16,9 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesCodebabel)](https://github.com/CharlesCodebabel/github-readme-stats)
 
 </div>
+
 ___
+
 ## SYSTEMS
 ___
 
