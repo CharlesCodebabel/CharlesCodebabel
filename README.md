@@ -11,9 +11,13 @@ ___
 ___
 ## STATS
 ___
+<div align="center">
 
 ![CharlesCodebabel](https://github-readme-stats.vercel.app/api?username=CharlesCodebabel&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesCodebabel)](https://github.com/CharlesCodebabel/github-readme-stats)
+
+</div>
 ___
 ## SYSTEMS
 ___
