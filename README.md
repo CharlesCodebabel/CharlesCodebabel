@@ -46,7 +46,7 @@ ___
 
 Twine SugarCube Text-based Game ( Html, Css, Javascript )
 ___
-## | C SHARP |
+## | C SHARP ~ @|
 ___
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
