@@ -26,6 +26,8 @@ ___
     
 ![windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
+![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
+
 Automação : Bach, Batch e Vbscript.
 ___
 ## FRONTEND 
