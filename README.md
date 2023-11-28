@@ -52,7 +52,7 @@ ___
 ___
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-Desktop Application C#
+Desktop Application and CLI C#
 
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
@@ -63,8 +63,8 @@ ___
 ___
 ![Python](https://img.shields.io/pypi/pyversions/4?color=yellow&label=Python&logo=Python&logoColor=blue&style=for-the-badge)
 
-### (WEB) Desenvolvimento Python 3.10 Global, Django, Flask, FastAPI, Selenium, Scrapy, PyAutoGUI.  
-### (GUI) : Kivy, PySimpleGui, Tkinter, PyQT, Flet.
+## (WEB) Desenvolvimento Python 3, Django, Flask, FastAPI, Selenium, Scrapy.  
+## (GUI) : Kivy, PySimpleGui, Tkinter, PyQT, Flet.
 
 ___
 ## DATABASE
