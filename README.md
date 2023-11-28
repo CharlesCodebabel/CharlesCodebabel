@@ -28,7 +28,7 @@ ___
 
 ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 
-Automação : Bach, Batch e Vbscript.
+Automação : Bash, Batch e Vbscript.
 ___
 ## FRONTEND 
 ___
